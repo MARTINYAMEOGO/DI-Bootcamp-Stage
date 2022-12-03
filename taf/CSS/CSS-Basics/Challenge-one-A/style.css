@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color:rgb(226,172,127);
+    
+}
+
+
+p{
+    font-style: normal;
+  
+}
+
+
+ul{
+    list-style: none;
+
+}
+  span{
+    text-transform: uppercase;
+    font-weight: bold;
+    list-style: none;
+
+
+ }
+
+div{
+    width: 650px;
+    margin-left: auto ;
+    margin-right: auto;
+    border-style: dotted;
+    background-color: white;
+   
+    padding-top: -30px;
+    
+}
+h1 {
+    border-bottom: dotted;
+    margin-top: 0px;
+}

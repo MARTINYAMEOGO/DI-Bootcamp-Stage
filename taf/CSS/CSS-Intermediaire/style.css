@@ -1,0 +1,38 @@
+body{
+    background-color: #364371;
+    height: auto;
+    width: auto;
+
+
+}
+
+#nav{
+    background-color: #b0cfff;
+    width: 200px;
+    float: left;
+    height: 430px;
+    text-align: center;
+}
+
+#content{
+    background-color: #5b7fbd;
+    width: 450px;
+    float: right ;
+    height: 430px;
+    text-align: center;
+    
+}
+#content ul{
+    list-style: none;
+}
+
+#wrap{
+    content : " ";
+    display: inline-block;
+    clear: both;
+    width: 650px;
+   margin-left: auto;
+   margin-right: auto;
+  
+    
+}
